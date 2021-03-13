@@ -1,0 +1,44 @@
+/*.spacer{*/
+/*  flex: 1 1 auto;*/
+/*}*/
+/*mat-sidenav{*/
+/*  width: 240px;*/
+/*}*/
+/*.mat-nav-list .mat-icon{*/
+/*  margin-right: 30px;*/
+/*  padding-left: 8px;*/
+/*}*/
+/*.mat-sidenav.menu-open{*/
+/*  width: 240px;*/
+/*}*/
+/*.mat-sidenav.menu-close{*/
+/*  width: 70px;*/
+/*  height: 100vh;*/
+/*}*/
+/*.mat-toolbar a{*/
+/*  text-decoration: none;*/
+/*}*/
+/*.sidenav1{*/
+/*  height: 91.5vh;*/
+/*}*/
+/*.example-card {*/
+/*  max-width: 300px;*/
+/*  margin: 20px 40px;*/
+/*}*/
+
+/*.example-header-image {*/
+/*  background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');*/
+/*  background-size: cover;*/
+/*}*/
+/*.container{*/
+/*  display: flex;*/
+/*  justify-content: center;*/
+/*  align-items: center;*/
+/*}*/
+/*h3{*/
+/*  padding: 20px;*/
+/*}*/
+/*.mat-mini-fab {*/
+/*  border: none;*/
+/*}*/
+
